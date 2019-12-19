@@ -1,0 +1,48 @@
+.tbl-banner-img{
+    height: 75px;
+}
+div.invalid-feedback{
+    color: red;
+}
+.flex-caption {
+    padding: 2%;
+    left: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.5);
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.pt-1{
+    padding-top: 1px;
+}
+
+.pt-2{
+    padding-top: 2px;
+}
+
+.pt-3{
+    padding-top: 3px;
+}
+
+.pt-4{
+    padding-top: 4px;
+}
+
+.pt-5{
+    padding-top: 5px;
+}
+
+.pt-6{
+    padding-top: 6px;
+}
+
+.pt-7{
+    padding-top: 7px;
+}
+
+.pt-8{
+    padding-top: 8px;
+}
